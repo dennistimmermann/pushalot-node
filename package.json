@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Dennis Timmermann",
+    "email": "timmermann.dennis@googlemail.com",
+    "url": "http://github.com/dennistimmermann"
+  },
+  "name": "pushalot-node",
+  "description": "easily access the pushalot push API (http://pushalot.com/)",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dennistimmermann/pushalot-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dennistimmermann/pushalot-node/issues"
+  },
+  "main": "pushalot-node.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "tags": [
+    "push",
+    "pushalot",
+    "windows phone",
+    "windows 8",
+    "api",
+    "notification",
+    "toast"
+  ]
+}
